@@ -49,11 +49,13 @@ body {
     }
     
     .content {
-        color: #000;
         padding: 20px;
         background: white;
         margin: 20px;
         border-radius: 8px;
+    }
+    .content .texto{
+        color: #000;
     }
     
     footer {
